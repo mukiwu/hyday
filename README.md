@@ -4,6 +4,8 @@
 
 Hyday 整合筆記、日誌、任務與 AI 洞察，用你自己的方式組織知識。所有資料以 Markdown 檔案儲存在本地，不鎖定、不上傳、隨時帶走。
 
+![Hyday Screenshot](screenshot.png)
+
 ## 功能特色
 
 ### 雙向連結筆記
