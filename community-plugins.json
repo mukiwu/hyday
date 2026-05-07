@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "updatedAt": "2026-05-08",
+  "plugins": [
+    {
+      "id": "random-note",
+      "name": "隨機筆記",
+      "description": "從你的筆記中隨機選一篇打開。沒靈感時的解藥。",
+      "author": "Hyday Team",
+      "authorUrl": "https://hyday.web.app",
+      "version": "1.0.0",
+      "repo": "mukiwu/hyday-plugin-random-note",
+      "tags": ["productivity", "discovery"],
+      "official": true
+    },
+    {
+      "id": "category",
+      "name": "分類",
+      "description": "用檔案系統的子資料夾結構作為分類。點 sidebar 樹狀展開、點資料夾連動筆記列表。",
+      "author": "Hyday Team",
+      "authorUrl": "https://hyday.web.app",
+      "version": "1.0.0",
+      "repo": "mukiwu/hyday-plugin-category",
+      "tags": ["organization", "productivity"],
+      "official": true
+    },
+    {
+      "id": "pomodoro",
+      "name": "Pomodoro",
+      "description": "番茄鐘計時器。25 分鐘專心、5 分鐘休息——簡單但有效。",
+      "author": "Hyday Team",
+      "authorUrl": "https://hyday.web.app",
+      "version": "1.0.0",
+      "repo": "mukiwu/hyday-plugin-pomodoro",
+      "tags": ["productivity", "focus"],
+      "official": true
+    }
+  ]
+}
