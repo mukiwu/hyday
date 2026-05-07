@@ -16,10 +16,10 @@
     {
       "id": "category",
       "name": "分類",
-      "description": "用檔案系統的子資料夾結構作為分類。點 sidebar 樹狀展開、點資料夾連動筆記列表。",
+      "description": "從筆記資料夾結構自動生成樹狀分類。點 sidebar 樹狀展開、點資料夾即可在筆記列表只看該分類下的筆記。",
       "author": "Hyday Team",
       "authorUrl": "https://hyday.web.app",
-      "version": "1.0.0",
+      "version": "2.0.0",
       "repo": "mukiwu/hyday-plugin-category",
       "tags": ["organization", "productivity"],
       "official": true
