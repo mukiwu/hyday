@@ -14,17 +14,6 @@
       "official": true
     },
     {
-      "id": "category",
-      "name": "分類",
-      "description": "從筆記資料夾結構自動生成樹狀分類。點 sidebar 樹狀展開、點資料夾即可在筆記列表只看該分類下的筆記。",
-      "author": "Hyday Team",
-      "authorUrl": "https://hyday.web.app",
-      "version": "2.0.0",
-      "repo": "mukiwu/hyday-plugin-category",
-      "tags": ["organization", "productivity"],
-      "official": true
-    },
-    {
       "id": "pomodoro",
       "name": "Pomodoro",
       "description": "番茄鐘計時器。25 分鐘專心、5 分鐘休息——簡單但有效。",
