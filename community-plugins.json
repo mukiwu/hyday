@@ -3,6 +3,17 @@
   "updatedAt": "2026-05-08",
   "plugins": [
     {
+      "id": "scratchpad",
+      "name": "便籤",
+      "description": "右上角常駐快速便籤。寫想法、電話、待辦——不正式存成筆記，只是隨手記。離開自動保存。",
+      "author": "Hyday Team",
+      "authorUrl": "https://hyday.web.app",
+      "version": "1.0.0",
+      "repo": "mukiwu/hyday-plugin-scratchpad",
+      "tags": ["productivity", "capture"],
+      "official": true
+    },
+    {
       "id": "random-note",
       "name": "隨機筆記",
       "description": "從你的筆記中隨機選一篇打開。沒靈感時的解藥。",
