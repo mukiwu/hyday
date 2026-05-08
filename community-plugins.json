@@ -16,10 +16,10 @@
     {
       "id": "pomodoro",
       "name": "Pomodoro",
-      "description": "番茄鐘計時器，常駐右上角 nav bar，點 icon 展開計時面板。25 分鐘專心、5 分鐘休息。",
+      "description": "番茄鐘計時器，常駐右上角 nav bar。階段結束會 toast + 系統通知 + 提示音三層通知。",
       "author": "Hyday Team",
       "authorUrl": "https://hyday.web.app",
-      "version": "2.0.0",
+      "version": "2.1.0",
       "repo": "mukiwu/hyday-plugin-pomodoro",
       "tags": ["productivity", "focus"],
       "official": true
