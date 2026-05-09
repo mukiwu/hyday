@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-08",
+  "updatedAt": "2026-05-10",
   "plugins": [
     {
       "id": "scratchpad",
@@ -8,10 +8,23 @@
       "description": "將便條常駐在右上角，可以寫想法、臨時紀錄、待辦.. 等等的隨手記資訊，自動儲存，有需要也可以直接新增到筆記或日記裡。",
       "author": "Hyday Team",
       "authorUrl": "https://hyday.web.app",
-      "version": "1.1.0",
+      "version": "1.1.1",
       "repo": "mukiwu/hyday-plugin-scratchpad",
       "tags": ["productivity", "capture"],
-      "official": true
+      "official": true,
+      "i18n": {
+        "default": "zh-TW",
+        "names": {
+          "zh-TW": "便籤",
+          "en": "Scratchpad",
+          "zh-CN": "便签"
+        },
+        "descriptions": {
+          "zh-TW": "將便條常駐在右上角，可以寫想法、臨時紀錄、待辦.. 等等的隨手記資訊，自動儲存，有需要也可以直接新增到筆記或日記裡。",
+          "en": "Pin a sticky note in the top-right corner — jot ideas, quick notes, todos. Auto-saved, and you can promote it to a real note or journal entry whenever you need.",
+          "zh-CN": "将便条常驻在右上角，可以写想法、临时纪录、待办.. 等等的随手记资讯，自动储存，有需要也可以直接新增到笔记或日记里。"
+        }
+      }
     },
     {
       "id": "random-note",
@@ -19,10 +32,23 @@
       "description": "從你的筆記中隨機選一篇打開。沒靈感時的解藥。",
       "author": "Hyday Team",
       "authorUrl": "https://hyday.web.app",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "repo": "mukiwu/hyday-plugin-random-note",
       "tags": ["productivity", "discovery"],
-      "official": true
+      "official": true,
+      "i18n": {
+        "default": "zh-TW",
+        "names": {
+          "zh-TW": "隨機筆記",
+          "en": "Random Note",
+          "zh-CN": "随机笔记"
+        },
+        "descriptions": {
+          "zh-TW": "從你的筆記中隨機選一篇打開。沒靈感時的解藥。",
+          "en": "Open a random note from your library. The cure for blank-page paralysis.",
+          "zh-CN": "从你的笔记中随机选一篇打开。没灵感时的解药。"
+        }
+      }
     },
     {
       "id": "pomodoro",
@@ -30,10 +56,23 @@
       "description": "番茄鐘計時器，常駐右上角 nav bar。階段結束會 toast + 系統通知 + 提示音三層通知。",
       "author": "Hyday Team",
       "authorUrl": "https://hyday.web.app",
-      "version": "2.1.0",
+      "version": "2.1.1",
       "repo": "mukiwu/hyday-plugin-pomodoro",
       "tags": ["productivity", "focus"],
-      "official": true
+      "official": true,
+      "i18n": {
+        "default": "zh-TW",
+        "names": {
+          "zh-TW": "Pomodoro",
+          "en": "Pomodoro",
+          "zh-CN": "Pomodoro"
+        },
+        "descriptions": {
+          "zh-TW": "番茄鐘計時器，常駐右上角 nav bar。階段結束會 toast + 系統通知 + 提示音三層通知。",
+          "en": "Pomodoro timer pinned to the top-right nav bar. Each phase ends with a toast, system notification, and chime.",
+          "zh-CN": "番茄钟计时器，常驻右上角 nav bar。阶段结束会 toast + 系统通知 + 提示音三层通知。"
+        }
+      }
     }
   ]
 }
