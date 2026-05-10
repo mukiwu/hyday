@@ -32,7 +32,7 @@
       "description": "從你的筆記中隨機選一篇打開。沒靈感時的解藥。",
       "author": "Hyday Team",
       "authorUrl": "https://hyday.web.app",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "repo": "mukiwu/hyday-plugin-random-note",
       "tags": ["productivity", "discovery"],
       "official": true,
