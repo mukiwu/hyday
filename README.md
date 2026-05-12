@@ -53,4 +53,4 @@ v0.6.0 起支援自動更新：App 會在背景檢查新版本，下載完成後
 
 ## 官方網站
 
-[hyday.web.app](https://hyday.web.app)
+[hyday.tw](https://hyday.tw)
