@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-13",
+  "updatedAt": "2026-06-14",
   "plugins": [
     {
       "id": "scratchpad",
@@ -8,9 +8,12 @@
       "description": "將便條常駐在右上角，可以寫想法、臨時紀錄、待辦.. 等等的隨手記資訊，自動儲存，有需要也可以直接新增到筆記或日記裡。",
       "author": "Hyday Team",
       "authorUrl": "https://hyday.web.app",
-      "version": "1.1.1",
+      "version": "1.1.2",
       "repo": "mukiwu/hyday-plugin-scratchpad",
-      "tags": ["productivity", "capture"],
+      "tags": [
+        "productivity",
+        "capture"
+      ],
       "official": true,
       "i18n": {
         "default": "zh-TW",
@@ -34,7 +37,10 @@
       "authorUrl": "https://hyday.web.app",
       "version": "1.0.2",
       "repo": "mukiwu/hyday-plugin-random-note",
-      "tags": ["productivity", "discovery"],
+      "tags": [
+        "productivity",
+        "discovery"
+      ],
       "official": true,
       "i18n": {
         "default": "zh-TW",
@@ -58,7 +64,10 @@
       "authorUrl": "https://hyday.web.app",
       "version": "2.2.0",
       "repo": "mukiwu/hyday-plugin-pomodoro",
-      "tags": ["productivity", "focus"],
+      "tags": [
+        "productivity",
+        "focus"
+      ],
       "official": true,
       "i18n": {
         "default": "zh-TW",
@@ -76,4 +85,3 @@
     }
   ]
 }
-
