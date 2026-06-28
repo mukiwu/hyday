@@ -89,7 +89,7 @@
       "description": "記錄多種用藥：每種藥各設天數、時段（早/中/晚/睡前）與各時段劑量，每天打勾記錄是否吃藥。",
       "author": "Hyday Team",
       "authorUrl": "https://hyday.web.app",
-      "version": "1.3.0",
+      "version": "1.3.1",
       "repo": "mukiwu/hyday-plugin-medication",
       "tags": [
         "health",
