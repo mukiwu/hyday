@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-14",
+  "updatedAt": "2026-06-28",
   "plugins": [
     {
       "id": "scratchpad",
@@ -80,6 +80,29 @@
           "zh-TW": "番茄鐘計時器，常駐右上角 nav bar。階段結束會 toast + 系統通知 + 提示音三層通知。",
           "en": "Pomodoro timer pinned to the top-right nav bar. Each phase ends with a toast, system notification, and chime.",
           "zh-CN": "番茄钟计时器，常驻右上角 nav bar。阶段结束会 toast + 系统通知 + 提示音三层通知。"
+        }
+      }
+    },
+    {
+      "id": "medication",
+      "name": "用藥記錄",
+      "description": "記錄用藥療程：設定天數、時段（早/中/晚/睡前）與各時段劑量，每天打勾記錄是否吃藥。",
+      "author": "Hyday Team",
+      "authorUrl": "https://hyday.web.app",
+      "version": "1.0.0",
+      "repo": "mukiwu/hyday-plugin-medication",
+      "tags": [
+        "health",
+        "tracking"
+      ],
+      "official": true,
+      "i18n": {
+        "default": "zh-TW",
+        "names": {
+          "zh-TW": "用藥記錄"
+        },
+        "descriptions": {
+          "zh-TW": "記錄用藥療程：設定天數、時段（早/中/晚/睡前）與各時段劑量，每天打勾記錄是否吃藥。"
         }
       }
     }
