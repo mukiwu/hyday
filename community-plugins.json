@@ -86,10 +86,10 @@
     {
       "id": "medication",
       "name": "用藥記錄",
-      "description": "記錄用藥療程：設定天數、時段（早/中/晚/睡前）與各時段劑量，每天打勾記錄是否吃藥。",
+      "description": "記錄多種用藥：每種藥各設天數、時段（早/中/晚/睡前）與各時段劑量，每天打勾記錄是否吃藥。",
       "author": "Hyday Team",
       "authorUrl": "https://hyday.web.app",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "repo": "mukiwu/hyday-plugin-medication",
       "tags": [
         "health",
@@ -102,7 +102,7 @@
           "zh-TW": "用藥記錄"
         },
         "descriptions": {
-          "zh-TW": "記錄用藥療程：設定天數、時段（早/中/晚/睡前）與各時段劑量，每天打勾記錄是否吃藥。"
+          "zh-TW": "記錄多種用藥：每種藥各設天數、時段（早/中/晚/睡前）與各時段劑量，每天打勾記錄是否吃藥。"
         }
       }
     }
